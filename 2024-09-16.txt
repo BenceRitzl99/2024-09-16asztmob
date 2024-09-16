@@ -1,0 +1,7 @@
+git branch dev --> dev ág létrehozása
+git checkout dev  --> dev ágra átlépés
+
+
+használmi mert master ágon nem kéne dolgozni!!!!!!
+
+Dolgozat is dev ágban lesz!
